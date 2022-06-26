@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\人工智能\bin\Debug\人工智能.exe.config
+C:\Users\Administrator\source\repos\人工智能\bin\Debug\人工智能.exe
+C:\Users\Administrator\source\repos\人工智能\bin\Debug\人工智能.pdb
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.Properties.Resources.resources
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.exe
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.pdb
+C:\Users\Administrator\source\repos\人工智能\obj\Debug\人工智能.Form1.resources
